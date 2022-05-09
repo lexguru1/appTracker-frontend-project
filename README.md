@@ -2,6 +2,8 @@
 
 appTracker is the all-in-one job application tracking solution that makes every step of your job search easier.
 
+Deployed version can be found [here](https://apptracker-codaisseur.netlify.app/).
+
 ## **Introduction**
 
 Code Academy alumni need to track their job applications in a central place. This is where appTracker comes in - an easy to use platform where users can create new job applications, move already created applications from one status to another and also delete unsuccessful applications.
